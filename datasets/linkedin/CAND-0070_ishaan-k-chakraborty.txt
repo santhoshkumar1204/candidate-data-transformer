@@ -1,0 +1,21 @@
+Headline
+Ishaan K. Chakraborty - DevOps Engineer at TCS
+
+About
+Ishaan K. Chakraborty is a software professional based in Delhi NCR with 10 years of experience. Preferred location: Delhi NCR.
+
+Experience
+DevOps Engineer, TCS
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from SSN, class of 2015.
+
+Skills
+Kubernetes, FastAPI, PostgreSQL, Python, React, Power BI, AWS, Docker
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Kubernetes and Kubernetes. Improved reporting, deployment reliability, and engineering productivity.

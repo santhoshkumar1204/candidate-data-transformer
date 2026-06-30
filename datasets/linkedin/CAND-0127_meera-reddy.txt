@@ -1,0 +1,21 @@
+Headline
+Meera Reddy - DevOps Engineer at Infosys
+
+About
+Meera Reddy is a software professional based in Coimbatore with 11 years of experience. Preferred location: Delhi NCR.
+
+Experience
+DevOps Engineer, Infosys
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from PSG, class of 2011.
+
+Skills
+AWS, Python, Power BI, TensorFlow, PyTorch, MongoDB
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Kubernetes and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

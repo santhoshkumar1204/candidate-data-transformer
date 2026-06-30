@@ -1,0 +1,21 @@
+Headline
+Aditya Gupta - Software Engineer at Salesforce
+
+About
+Aditya Gupta is a software professional based in Bengaluru with 9 years of experience. Preferred location: Bengaluru.
+
+Experience
+Software Engineer, Salesforce
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from IIIT Hyderabad, class of 2013.
+
+Skills
+AWS, SQL, Power BI, React, MongoDB, PyTorch, FastAPI, TensorFlow
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using TensorFlow and AWS. Improved reporting, deployment reliability, and engineering productivity.

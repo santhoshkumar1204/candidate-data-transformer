@@ -1,0 +1,21 @@
+Headline
+Arjun Kulkarni - Full Stack Engineer at Bluestock
+
+About
+Arjun Kulkarni is a software professional based in Chennai with 14 years of experience. Preferred location: Bengaluru.
+
+Experience
+Full Stack Engineer, Bluestock
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from SRM, class of 2008.
+
+Skills
+Spring Boot, SQL, React, PyTorch, Python, Power BI, Docker
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using SQL and Java. Improved reporting, deployment reliability, and engineering productivity.

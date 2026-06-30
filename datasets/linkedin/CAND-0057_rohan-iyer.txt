@@ -1,0 +1,21 @@
+Headline
+Rohan Iyer - Engineering Manager at TCS
+
+About
+Rohan Iyer is a software professional based in Hyderabad with 4 years of experience. Preferred location: Coimbatore.
+
+Experience
+Engineering Manager, TCS
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from SSN, class of 2019.
+
+Skills
+Spring Boot, SQL, React, Python, AWS, Django, Power BI
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Django and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

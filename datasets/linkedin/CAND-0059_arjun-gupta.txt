@@ -1,0 +1,21 @@
+Headline
+Arjun Gupta - Cloud Engineer at Accenture
+
+About
+Arjun Gupta is a software professional based in Mumbai with 2 years of experience. Preferred location: Pune.
+
+Experience
+Cloud Engineer, Accenture India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from IIIT Hyderabad, class of 2020.
+
+Skills
+Java, React, FastAPI, MongoDB, SQL, Power BI, Kubernetes
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Kubernetes and Django. Improved reporting, deployment reliability, and engineering productivity.

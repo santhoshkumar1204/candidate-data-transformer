@@ -1,0 +1,21 @@
+Headline
+Karthi Reddy - BI Analyst at TCS
+
+About
+Karthi Reddy is a software professional based in Hyderabad with 8 years of experience. Preferred location: Bengaluru.
+
+Experience
+BI Analyst, Tata Consultancy Services
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from Anna University, class of 2017.
+
+Skills
+PostgreSQL, FastAPI, Kubernetes, TensorFlow, PyTorch, React, AWS
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using FastAPI and React. Improved reporting, deployment reliability, and engineering productivity.

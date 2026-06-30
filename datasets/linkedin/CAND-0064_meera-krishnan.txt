@@ -1,0 +1,21 @@
+Headline
+Meera Krishnan - Data Engineer at AMZN
+
+About
+Meera Krishnan is a software professional based in Bengaluru with 5 years of experience. Preferred location: Coimbatore.
+
+Experience
+Data Engineer, AMZN
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from PSG, class of 2017.
+
+Skills
+TensorFlow, Java, Python, React, Power BI, Django, FastAPI, Docker, AWS
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using AWS and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

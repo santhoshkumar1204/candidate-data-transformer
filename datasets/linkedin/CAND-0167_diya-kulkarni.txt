@@ -1,0 +1,21 @@
+Headline
+Diya Kulkarni - Engineering Manager at Google
+
+About
+Diya Kulkarni is a software professional based in Hyderabad with 13 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Engineering Manager, Google LLC
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from SSN, class of 2011.
+
+Skills
+AWS, React, SQL, Kubernetes, TensorFlow, Django, FastAPI
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Docker and React. Improved reporting, deployment reliability, and engineering productivity.

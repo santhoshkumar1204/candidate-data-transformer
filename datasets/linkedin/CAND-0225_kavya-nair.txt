@@ -1,0 +1,15 @@
+About
+Kavya Nair is a software professional based in Coimbatore with 3 years of experience. Preferred location: Chennai.
+
+Projects
+Built internal tools using Power BI and FastAPI. Improved reporting, deployment reliability, and engineering productivity.
+
+Experience
+Software Engineer, AMZN
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Headline
+Kavya Nair - Software Engineer at Amazon
+
+Education
+MCA from IIIT Hyderabad, class of 2019.

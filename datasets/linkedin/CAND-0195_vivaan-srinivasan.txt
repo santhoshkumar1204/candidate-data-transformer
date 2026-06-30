@@ -1,0 +1,21 @@
+Headline
+Vivaan Srinivasan - Data Engineer at Wipro
+
+About
+Vivaan Srinivasan is a software professional based in Mumbai with 7 years of experience. Preferred location: Chennai.
+
+Experience
+Data Engineer, WIPRO
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from BITS Pilani, class of 2015.
+
+Skills
+FastAPI, Kubernetes, Power BI, PostgreSQL, PyTorch, AWS
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Power BI and React. Improved reporting, deployment reliability, and engineering productivity.

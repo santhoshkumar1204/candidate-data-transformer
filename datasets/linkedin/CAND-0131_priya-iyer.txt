@@ -1,0 +1,21 @@
+Headline
+Priya Iyer - Senior Software Engineer at Salesforce
+
+About
+Priya Iyer is a software professional based in Hyderabad with 5 years of experience. Preferred location: Coimbatore.
+
+Experience
+Senior Software Engineer, Salesforce India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from PSG, class of 2020.
+
+Skills
+Kubernetes, MongoDB, SQL, Python, TensorFlow, PyTorch, FastAPI, Docker
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Spring Boot and React. Improved reporting, deployment reliability, and engineering productivity.

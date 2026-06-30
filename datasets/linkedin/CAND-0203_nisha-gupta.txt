@@ -1,0 +1,21 @@
+Headline
+Nisha Gupta - Data Engineer at Zoho
+
+About
+Nisha Gupta is a software professional based in Delhi NCR with 13 years of experience. Preferred location: Chennai.
+
+Experience
+Data Engineer, Zoho
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIIT Hyderabad, class of 2010.
+
+Skills
+PyTorch, TensorFlow, Java, Django, Power BI, FastAPI
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using MongoDB and AWS. Improved reporting, deployment reliability, and engineering productivity.

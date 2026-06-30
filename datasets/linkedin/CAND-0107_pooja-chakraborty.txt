@@ -1,0 +1,21 @@
+Headline
+Pooja Chakraborty - Software Engineer at Wipro
+
+About
+Pooja Chakraborty is a software professional based in Mumbai with 4 years of experience. Preferred location: Hyderabad.
+
+Experience
+Software Engineer, Wipro
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from VIT, class of 2018.
+
+Skills
+Docker, TensorFlow, PyTorch, Python, Django, PostgreSQL, AWS
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Docker and MongoDB. Improved reporting, deployment reliability, and engineering productivity.

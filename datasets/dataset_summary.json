@@ -1,0 +1,188 @@
+{
+  "number_of_candidates": 250,
+  "duplicates": {
+    "count": 20,
+    "candidate_ids": [
+      "CAND-0014",
+      "CAND-0015",
+      "CAND-0016",
+      "CAND-0030",
+      "CAND-0031",
+      "CAND-0034",
+      "CAND-0036",
+      "CAND-0043",
+      "CAND-0063",
+      "CAND-0065",
+      "CAND-0070",
+      "CAND-0078",
+      "CAND-0116",
+      "CAND-0147",
+      "CAND-0159",
+      "CAND-0171",
+      "CAND-0181",
+      "CAND-0196",
+      "CAND-0197",
+      "CAND-0236"
+    ]
+  },
+  "missing_phones": {
+    "count": 22,
+    "candidate_ids": [
+      "CAND-0011",
+      "CAND-0022",
+      "CAND-0033",
+      "CAND-0044",
+      "CAND-0055",
+      "CAND-0066",
+      "CAND-0077",
+      "CAND-0088",
+      "CAND-0099",
+      "CAND-0110",
+      "CAND-0121",
+      "CAND-0132",
+      "CAND-0143",
+      "CAND-0154",
+      "CAND-0165",
+      "CAND-0176",
+      "CAND-0187",
+      "CAND-0198",
+      "CAND-0209",
+      "CAND-0220",
+      "CAND-0231",
+      "CAND-0242"
+    ]
+  },
+  "missing_emails": {
+    "count": 18,
+    "candidate_ids": [
+      "CAND-0013",
+      "CAND-0026",
+      "CAND-0039",
+      "CAND-0052",
+      "CAND-0091",
+      "CAND-0104",
+      "CAND-0117",
+      "CAND-0130",
+      "CAND-0143",
+      "CAND-0156",
+      "CAND-0169",
+      "CAND-0181",
+      "CAND-0182",
+      "CAND-0195",
+      "CAND-0208",
+      "CAND-0221",
+      "CAND-0234",
+      "CAND-0247"
+    ]
+  },
+  "invalid_phones": {
+    "count": 4,
+    "candidate_ids": [
+      "CAND-0062",
+      "CAND-0093",
+      "CAND-0155",
+      "CAND-0248"
+    ]
+  },
+  "invalid_emails": {
+    "count": 5,
+    "candidate_ids": [
+      "CAND-0087",
+      "CAND-0145",
+      "CAND-0174",
+      "CAND-0203",
+      "CAND-0232"
+    ]
+  },
+  "nickname_cases": {
+    "count": 24,
+    "candidate_ids": [
+      "CAND-0014",
+      "CAND-0015",
+      "CAND-0016",
+      "CAND-0023",
+      "CAND-0036",
+      "CAND-0046",
+      "CAND-0063",
+      "CAND-0065",
+      "CAND-0069",
+      "CAND-0078",
+      "CAND-0092",
+      "CAND-0115",
+      "CAND-0116",
+      "CAND-0138",
+      "CAND-0147",
+      "CAND-0159",
+      "CAND-0161",
+      "CAND-0181",
+      "CAND-0184",
+      "CAND-0196",
+      "CAND-0197",
+      "CAND-0207",
+      "CAND-0230",
+      "CAND-0236"
+    ]
+  },
+  "company_conflicts": {
+    "count": 14,
+    "candidate_ids": [
+      "CAND-0032",
+      "CAND-0048",
+      "CAND-0064",
+      "CAND-0080",
+      "CAND-0096",
+      "CAND-0112",
+      "CAND-0128",
+      "CAND-0144",
+      "CAND-0160",
+      "CAND-0176",
+      "CAND-0192",
+      "CAND-0208",
+      "CAND-0224",
+      "CAND-0240"
+    ]
+  },
+  "date_format_conflicts": {
+    "count": 14,
+    "candidate_ids": [
+      "CAND-0028",
+      "CAND-0042",
+      "CAND-0056",
+      "CAND-0084",
+      "CAND-0098",
+      "CAND-0112",
+      "CAND-0126",
+      "CAND-0140",
+      "CAND-0154",
+      "CAND-0168",
+      "CAND-0182",
+      "CAND-0210",
+      "CAND-0224",
+      "CAND-0238"
+    ]
+  },
+  "missing_skills": {
+    "count": 9,
+    "candidate_ids": [
+      "CAND-0021",
+      "CAND-0042",
+      "CAND-0084",
+      "CAND-0105",
+      "CAND-0126",
+      "CAND-0168",
+      "CAND-0189",
+      "CAND-0210",
+      "CAND-0231"
+    ]
+  },
+  "other_edge_cases": {
+    "uppercase_names": 13,
+    "extra_whitespace_names": 12,
+    "missing_graduation_year": 9,
+    "multiple_phone_numbers": 6,
+    "old_new_company_conflicts": 20,
+    "incomplete_linkedin_profiles": 27,
+    "generated_resumes": 20
+  },
+  "generated_at": "2026-06-30T19:35:02"
+}

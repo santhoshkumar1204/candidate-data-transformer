@@ -1,0 +1,21 @@
+Headline
+Rohan Narayanan - Software Engineer at Bluestock
+
+About
+Rohan Narayanan is a software professional based in Coimbatore with 5 years of experience. Preferred location: Hyderabad.
+
+Experience
+Software Engineer, BlueStock
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from SRM, class of 2018.
+
+Skills
+FastAPI, TensorFlow, MongoDB, Power BI, React, Java, SQL, PostgreSQL
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using SQL and Docker. Improved reporting, deployment reliability, and engineering productivity.

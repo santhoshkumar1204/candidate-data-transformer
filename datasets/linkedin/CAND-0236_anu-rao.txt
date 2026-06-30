@@ -1,0 +1,21 @@
+Headline
+Anu Rao - DevOps Engineer at Bluestock
+
+About
+Anu Rao is a software professional based in Pune with 11 years of experience. Preferred location: Chennai.
+
+Experience
+DevOps Engineer, Bluestock Fintech
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from Anna University, class of 2014.
+
+Skills
+MongoDB, Kubernetes, AWS, Spring Boot, PyTorch, Power BI, SQL, Python, FastAPI
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Power BI and Spring Boot. Improved reporting, deployment reliability, and engineering productivity.

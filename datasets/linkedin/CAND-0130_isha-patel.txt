@@ -1,0 +1,21 @@
+Headline
+Isha Patel - Cloud Engineer at Freshworks
+
+About
+Isha Patel is a software professional based in Coimbatore with 7 years of experience. Preferred location: Pune.
+
+Experience
+Cloud Engineer, Freshworks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from VIT, class of 2018.
+
+Skills
+Docker, React, Java, TensorFlow, Spring Boot, AWS
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Python and Python. Improved reporting, deployment reliability, and engineering productivity.

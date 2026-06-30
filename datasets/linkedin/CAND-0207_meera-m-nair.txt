@@ -1,0 +1,11 @@
+Education
+MCA from SRM, class of 2014.
+
+Skills
+React, Spring Boot, TensorFlow, Java, MongoDB, FastAPI, Kubernetes
+
+Certifications
+Azure Fundamentals
+
+About
+Meera M. Nair is a software professional based in Mumbai with 9 years of experience. Preferred location: Bengaluru.

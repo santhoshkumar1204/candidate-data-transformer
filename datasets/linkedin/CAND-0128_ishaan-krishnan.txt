@@ -1,0 +1,21 @@
+Headline
+Ishaan Krishnan - Frontend Developer at International Business Machines
+
+About
+Ishaan Krishnan is a software professional based in Mumbai with 8 years of experience. Preferred location: Mumbai.
+
+Experience
+Frontend Developer, International Business Machines
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from PSG, class of 2015.
+
+Skills
+Kubernetes, PyTorch, Spring Boot, TensorFlow, MongoDB, Docker, Java
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using PostgreSQL and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

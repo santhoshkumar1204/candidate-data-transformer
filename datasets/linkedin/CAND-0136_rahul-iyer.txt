@@ -1,0 +1,21 @@
+Headline
+RAHUL IYER - Backend Engineer at IBM
+
+About
+RAHUL IYER is a software professional based in Chennai with 1 years of experience. Preferred location: Chennai.
+
+Experience
+Backend Engineer, IBM
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from NIT Trichy, class of 2024.
+
+Skills
+SQL, Django, AWS, PyTorch, Java, React, Python, Spring Boot, Power BI
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using PyTorch and TensorFlow. Improved reporting, deployment reliability, and engineering productivity.

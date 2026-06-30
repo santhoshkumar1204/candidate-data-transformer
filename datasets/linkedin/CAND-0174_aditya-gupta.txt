@@ -1,0 +1,21 @@
+Headline
+Aditya Gupta - Frontend Developer at Wipro
+
+About
+Aditya Gupta is a software professional based in Hyderabad with 9 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Frontend Developer, Wipro
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from NIT Trichy, class of 2013.
+
+Skills
+FastAPI, AWS, Python, React, Power BI, TensorFlow, PyTorch
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using FastAPI and TensorFlow. Improved reporting, deployment reliability, and engineering productivity.

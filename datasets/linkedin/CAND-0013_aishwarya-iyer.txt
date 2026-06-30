@@ -1,0 +1,21 @@
+Headline
+Aishwarya Iyer - Engineering Manager at Microsoft
+
+About
+Aishwarya Iyer is a software professional based in Hyderabad with 4 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Engineering Manager, MSFT
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIIT Hyderabad, class of 2019.
+
+Skills
+PostgreSQL, Java, Django, Spring Boot, FastAPI, PyTorch, Power BI
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using AWS and React. Improved reporting, deployment reliability, and engineering productivity.

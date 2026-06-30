@@ -1,0 +1,21 @@
+Headline
+Aishwarya Verma - Cloud Engineer at Adobe
+
+About
+Aishwarya Verma is a software professional based in Chennai with 5 years of experience. Preferred location: Pune.
+
+Experience
+Cloud Engineer, Adobe
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from VIT, class of 2017.
+
+Skills
+Python, Kubernetes, TensorFlow, MongoDB, SQL, PostgreSQL, Django, React, Docker
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using React and SQL. Improved reporting, deployment reliability, and engineering productivity.

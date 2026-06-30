@@ -1,0 +1,21 @@
+Headline
+Kavya Gupta - Engineering Manager at Freshworks
+
+About
+Kavya Gupta is a software professional based in Bengaluru with 9 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Engineering Manager, Freshworks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from IIIT Hyderabad, class of 2013.
+
+Skills
+Kubernetes, Java, TensorFlow, SQL, Docker, Python, Spring Boot
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using PyTorch and Python. Improved reporting, deployment reliability, and engineering productivity.

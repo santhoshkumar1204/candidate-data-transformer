@@ -1,0 +1,14 @@
+About
+Karthik Reddy is a software professional based in Hyderabad with 8 years of experience. Preferred location: Bengaluru.
+
+Skills
+PostgreSQL, FastAPI, Kubernetes, TensorFlow, PyTorch, React, AWS
+
+Education
+MCA from Anna University, class of 2017.
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using React and Kubernetes. Improved reporting, deployment reliability, and engineering productivity.

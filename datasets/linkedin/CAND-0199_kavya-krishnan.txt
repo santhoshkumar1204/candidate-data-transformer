@@ -1,0 +1,21 @@
+Headline
+Kavya Krishnan - DevOps Engineer at Google
+
+About
+Kavya Krishnan is a software professional based in Hyderabad with 11 years of experience. Preferred location: Coimbatore.
+
+Experience
+DevOps Engineer, GOOGLE
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from Anna University, class of 2014.
+
+Skills
+TensorFlow, Java, SQL, Power BI, PostgreSQL, React, AWS
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Spring Boot and Kubernetes. Improved reporting, deployment reliability, and engineering productivity.

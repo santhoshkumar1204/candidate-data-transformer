@@ -1,0 +1,21 @@
+Headline
+Diya Iyer - Software Engineer at Oracle
+
+About
+Diya Iyer is a software professional based in Coimbatore with 7 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Software Engineer, Oracle India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from NIT Trichy, class of 2015.
+
+Skills
+TensorFlow, AWS, PostgreSQL, MongoDB, SQL, Docker, FastAPI, Java
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using React and React. Improved reporting, deployment reliability, and engineering productivity.

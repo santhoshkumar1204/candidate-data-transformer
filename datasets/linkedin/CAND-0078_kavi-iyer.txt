@@ -1,0 +1,21 @@
+Headline
+Kavi Iyer - Software Engineer at Infosys
+
+About
+Kavi Iyer is a software professional based in Coimbatore with 1 years of experience. Preferred location: Pune.
+
+Experience
+Software Engineer, Infosys Ltd
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from Anna University, class of 2021.
+
+Skills
+Django, Kubernetes, React, PyTorch, Docker, Power BI
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Docker and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

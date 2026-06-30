@@ -1,0 +1,21 @@
+Headline
+Vivaan Reddy - BI Analyst at Oracle
+
+About
+Vivaan Reddy is a software professional based in Pune with 1 years of experience. Preferred location: Mumbai.
+
+Experience
+BI Analyst, Oracle
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from VIT, class of 2024.
+
+Skills
+SQL, React, PostgreSQL, Spring Boot, AWS, Java
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using TensorFlow and SQL. Improved reporting, deployment reliability, and engineering productivity.

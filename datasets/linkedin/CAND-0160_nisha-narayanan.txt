@@ -1,0 +1,21 @@
+Headline
+Nisha Narayanan - DevOps Engineer at GOOGLE
+
+About
+Nisha Narayanan is a software professional based in Pune with 11 years of experience. Preferred location: Mumbai.
+
+Experience
+DevOps Engineer, GOOGLE
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from SSN, class of 2012.
+
+Skills
+Python, Java, Spring Boot, AWS, TensorFlow
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Docker and Power BI. Improved reporting, deployment reliability, and engineering productivity.

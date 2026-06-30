@@ -1,0 +1,21 @@
+Headline
+Sneha Nair - Data Engineer at Amazon
+
+About
+Sneha Nair is a software professional based in Mumbai with 14 years of experience. Preferred location: Chennai.
+
+Experience
+Data Engineer, Amazon
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from NIT Trichy, class of 2011.
+
+Skills
+Power BI, TensorFlow, Docker, PyTorch, Kubernetes
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Java and Power BI. Improved reporting, deployment reliability, and engineering productivity.

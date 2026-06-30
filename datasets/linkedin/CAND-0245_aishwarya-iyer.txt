@@ -1,0 +1,21 @@
+Headline
+Aishwarya Iyer - DevOps Engineer at Microsoft
+
+About
+Aishwarya Iyer is a software professional based in Bengaluru with 7 years of experience. Preferred location: Delhi NCR.
+
+Experience
+DevOps Engineer, Microsoft
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from SRM, class of 2015.
+
+Skills
+TensorFlow, PyTorch, Python, FastAPI, Docker, MongoDB
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using FastAPI and Django. Improved reporting, deployment reliability, and engineering productivity.

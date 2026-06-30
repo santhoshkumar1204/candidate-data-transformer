@@ -1,0 +1,21 @@
+Headline
+Viv Kulkarni - Engineering Manager at TCS
+
+About
+Viv Kulkarni is a software professional based in Bengaluru with 10 years of experience. Preferred location: Mumbai.
+
+Experience
+Engineering Manager, TCS Ltd
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIIT Hyderabad, class of 2013.
+
+Skills
+Kubernetes, MongoDB, Docker, React, Java, TensorFlow
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using MongoDB and SQL. Improved reporting, deployment reliability, and engineering productivity.

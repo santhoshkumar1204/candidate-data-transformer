@@ -1,0 +1,21 @@
+Headline
+Sai Rao - Senior Software Engineer at Wipro
+
+About
+Sai Rao is a software professional based in Coimbatore with 2 years of experience. Preferred location: Coimbatore.
+
+Experience
+Senior Software Engineer, Wipro
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from VIT, class of 2023.
+
+Skills
+Docker, Kubernetes, AWS, SQL, TensorFlow, React, Spring Boot
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using AWS and MongoDB. Improved reporting, deployment reliability, and engineering productivity.

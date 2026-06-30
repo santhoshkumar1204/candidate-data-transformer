@@ -1,0 +1,21 @@
+Headline
+Diya Krishnan - Full Stack Engineer at Adobe
+
+About
+Diya Krishnan is a software professional based in Coimbatore with 12 years of experience. Preferred location: Chennai.
+
+Experience
+Full Stack Engineer, Adobe Systems
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from SRM, class of 2011.
+
+Skills
+PyTorch, React, Kubernetes, Power BI, Django, SQL, TensorFlow
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using MongoDB and Python. Improved reporting, deployment reliability, and engineering productivity.

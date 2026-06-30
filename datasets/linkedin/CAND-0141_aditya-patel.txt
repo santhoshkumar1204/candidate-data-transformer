@@ -1,0 +1,21 @@
+Headline
+Aditya Patel - Frontend Developer at Wipro
+
+About
+Aditya Patel is a software professional based in Pune with 13 years of experience. Preferred location: Mumbai.
+
+Experience
+Frontend Developer, Wipro Technologies
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from Anna University, class of 2011.
+
+Skills
+PyTorch, SQL, PostgreSQL, MongoDB, Power BI, FastAPI, AWS
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using PyTorch and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

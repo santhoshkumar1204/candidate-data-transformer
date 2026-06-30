@@ -1,0 +1,21 @@
+Headline
+Aishwarya Subramanian - Cloud Engineer at Bluestock
+
+About
+Aishwarya Subramanian is a software professional based in Chennai with 2 years of experience. Preferred location: Coimbatore.
+
+Experience
+Cloud Engineer, Bluestock
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from BITS Pilani, class of 2023.
+
+Skills
+PyTorch, Java, React, Spring Boot, Power BI, Docker, TensorFlow
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using React and SQL. Improved reporting, deployment reliability, and engineering productivity.

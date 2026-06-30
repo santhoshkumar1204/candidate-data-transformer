@@ -1,0 +1,15 @@
+{
+  "include_fields": [],
+  "exclude_fields": ["raw_record"],
+  "rename_fields": {
+    "candidate_id": "profile_id",
+    "current_company": "company",
+    "current_title": "title"
+  },
+  "flatten_nested": true,
+  "flatten_separator": ".",
+  "include_confidence": true,
+  "include_provenance": true,
+  "missing_value_strategy": "null",
+  "missing_value": null
+}

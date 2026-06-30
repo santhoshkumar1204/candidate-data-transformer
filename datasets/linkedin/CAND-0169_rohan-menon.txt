@@ -1,0 +1,21 @@
+Headline
+Rohan Menon - DevOps Engineer at Bluestock
+
+About
+Rohan Menon is a software professional based in Hyderabad with 9 years of experience. Preferred location: Bengaluru.
+
+Experience
+DevOps Engineer, Bluestock Fintech
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from NIT Trichy, class of 2014.
+
+Skills
+Python, Docker, React, PyTorch, SQL, Java, Spring Boot, AWS, Power BI
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Python and Java. Improved reporting, deployment reliability, and engineering productivity.

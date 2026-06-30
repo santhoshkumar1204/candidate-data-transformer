@@ -1,0 +1,21 @@
+Headline
+Karthi Reddy - Data Engineer at TCS
+
+About
+Karthi Reddy is a software professional based in Bengaluru with 5 years of experience. Preferred location: Coimbatore.
+
+Experience
+Data Engineer, Tata Consultancy Services
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from SRM, class of 2017.
+
+Skills
+FastAPI, React, Java, Python, PostgreSQL, Power BI, SQL, TensorFlow
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using PyTorch and Docker. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Ananya Verma - Senior Software Engineer at Freshworks
+
+About
+Ananya Verma is a software professional based in Coimbatore with 3 years of experience. Preferred location: Mumbai.
+
+Experience
+Senior Software Engineer, FreshWorks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from IIT Madras, class of 2019.
+
+Skills
+Power BI, Django, Java, Kubernetes, Docker, PyTorch
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using React and Java. Improved reporting, deployment reliability, and engineering productivity.

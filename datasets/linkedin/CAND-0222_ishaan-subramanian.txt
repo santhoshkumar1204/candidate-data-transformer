@@ -1,0 +1,21 @@
+Headline
+Ishaan Subramanian - Backend Engineer at Zoho
+
+About
+Ishaan Subramanian is a software professional based in Pune with 14 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Backend Engineer, ZOHO
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from Anna University, class of 2010.
+
+Skills
+SQL, Docker, FastAPI, PostgreSQL, Power BI, Python, Kubernetes, Java
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Django and React. Improved reporting, deployment reliability, and engineering productivity.

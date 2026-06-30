@@ -1,0 +1,16 @@
+{
+  "JS": "JavaScript",
+  "JavaScript": "JavaScript",
+  "Py": "Python",
+  "Python3": "Python",
+  "ML": "Machine Learning",
+  "AI": "Artificial Intelligence",
+  "ReactJS": "React",
+  "React.js": "React",
+  "NodeJS": "Node.js",
+  "Fast API": "FastAPI",
+  "K8s": "Kubernetes",
+  "Postgres": "PostgreSQL",
+  "PowerBI": "Power BI",
+  "Mongo DB": "MongoDB"
+}

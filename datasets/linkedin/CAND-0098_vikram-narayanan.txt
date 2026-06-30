@@ -1,0 +1,21 @@
+Headline
+Vikram Narayanan - Data Engineer at Microsoft
+
+About
+Vikram Narayanan is a software professional based in Chennai with 8 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Data Engineer, MSFT
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from SRM, class of 2017.
+
+Skills
+Django, MongoDB, Kubernetes, PyTorch, Spring Boot, React
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using MongoDB and Power BI. Improved reporting, deployment reliability, and engineering productivity.

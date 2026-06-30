@@ -1,0 +1,9 @@
+Skills
+Java, PostgreSQL, SQL, Python, Power BI, FastAPI, Docker
+
+Headline
+Ishaan Kulkarni - Full Stack Engineer at Google
+
+Experience
+Full Stack Engineer, Google India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.

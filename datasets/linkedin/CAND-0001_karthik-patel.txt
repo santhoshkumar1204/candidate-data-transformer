@@ -1,0 +1,21 @@
+Headline
+Karthik Patel - Software Engineer at Salesforce
+
+About
+Karthik Patel is a software professional based in Chennai with 9 years of experience. Preferred location: Pune.
+
+Experience
+Software Engineer, Salesforce
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from Anna University, class of 2014.
+
+Skills
+AWS, Django, Docker, TensorFlow, FastAPI, React, Power BI
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Java and Power BI. Improved reporting, deployment reliability, and engineering productivity.

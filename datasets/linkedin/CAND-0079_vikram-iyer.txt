@@ -1,0 +1,21 @@
+Headline
+Vikram Iyer - Frontend Developer at Google
+
+About
+Vikram Iyer is a software professional based in Bengaluru with 7 years of experience. Preferred location: Mumbai.
+
+Experience
+Frontend Developer, Google
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from BITS Pilani, class of 2017.
+
+Skills
+Java, MongoDB, Docker, PyTorch, Python, PostgreSQL, FastAPI
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using PyTorch and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

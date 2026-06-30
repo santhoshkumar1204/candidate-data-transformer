@@ -1,0 +1,21 @@
+Headline
+Ishaan Menon - Backend Engineer at Google
+
+About
+Ishaan Menon is a software professional based in Hyderabad with 12 years of experience. Preferred location: Pune.
+
+Experience
+Backend Engineer, Google India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIIT Hyderabad, class of 2010.
+
+Skills
+Docker, PostgreSQL, SQL, TensorFlow, PyTorch, Java
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Django and TensorFlow. Improved reporting, deployment reliability, and engineering productivity.

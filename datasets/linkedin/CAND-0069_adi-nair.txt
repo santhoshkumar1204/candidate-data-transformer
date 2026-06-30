@@ -1,0 +1,21 @@
+Headline
+Adi Nair - Cloud Engineer at Infosys
+
+About
+Adi Nair is a software professional based in Hyderabad with 8 years of experience. Preferred location: Mumbai.
+
+Experience
+Cloud Engineer, INFY
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from SSN, class of 2017.
+
+Skills
+PyTorch, TensorFlow, PostgreSQL, SQL, Spring Boot, MongoDB, React, Docker
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using SQL and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

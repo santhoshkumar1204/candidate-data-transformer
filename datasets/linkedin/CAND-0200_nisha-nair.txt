@@ -1,0 +1,21 @@
+Headline
+Nisha Nair - Frontend Developer at Freshworks
+
+About
+Nisha Nair is a software professional based in Mumbai with 3 years of experience. Preferred location: Chennai.
+
+Experience
+Frontend Developer, Freshworks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from IIIT Hyderabad, class of 2022.
+
+Skills
+FastAPI, PyTorch, React, PostgreSQL, MongoDB, Docker, Python, Django, Power BI
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using PyTorch and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

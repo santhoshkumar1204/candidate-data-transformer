@@ -1,0 +1,21 @@
+Headline
+Ishaan Narayanan - Software Engineer at Cisco
+
+About
+Ishaan Narayanan is a software professional based in Pune with 1 years of experience. Preferred location: Mumbai.
+
+Experience
+Software Engineer, Cisco
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from SRM, class of 2023.
+
+Skills
+Spring Boot, AWS, React, Django, PyTorch, MongoDB, FastAPI, SQL
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using AWS and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

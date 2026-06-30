@@ -1,0 +1,12 @@
+About
+Arjun Srinivasan is a software professional based in Pune with 7 years of experience. Preferred location: Bengaluru.
+
+Projects
+Built internal tools using FastAPI and Spring Boot. Improved reporting, deployment reliability, and engineering productivity.
+
+Headline
+Arjun Srinivasan - Data Engineer at Oracle
+
+Experience
+Data Engineer, Oracle
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.

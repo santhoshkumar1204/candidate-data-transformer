@@ -1,0 +1,21 @@
+Headline
+Vivaan Verma - Engineering Manager at Infosys
+
+About
+Vivaan Verma is a software professional based in Hyderabad with 9 years of experience. Preferred location: Mumbai.
+
+Experience
+Engineering Manager, Infosys
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from IIT Madras, class of 2016.
+
+Skills
+Power BI, MongoDB, PostgreSQL, FastAPI
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Django and Python. Improved reporting, deployment reliability, and engineering productivity.

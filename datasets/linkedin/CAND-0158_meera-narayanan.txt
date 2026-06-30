@@ -1,0 +1,21 @@
+Headline
+Meera Narayanan - Backend Engineer at Oracle
+
+About
+Meera Narayanan is a software professional based in Chennai with 7 years of experience. Preferred location: Hyderabad.
+
+Experience
+Backend Engineer, Oracle India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from Anna University, class of 2018.
+
+Skills
+AWS, Java, Docker, TensorFlow, PyTorch, FastAPI, Django, SQL, Python
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using FastAPI and Docker. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Kavya Nair - Cloud Engineer at Cisco
+
+About
+Kavya Nair is a software professional based in Pune with 13 years of experience. Preferred location: Hyderabad.
+
+Experience
+Cloud Engineer, Cisco
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from BITS Pilani, class of 2012.
+
+Skills
+TensorFlow, Kubernetes, AWS, FastAPI, Python, PostgreSQL
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using FastAPI and Python. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Isha Rao - Engineering Manager at Bluestock
+
+About
+Isha Rao is a software professional based in Delhi NCR with 5 years of experience. Preferred location: Bengaluru.
+
+Experience
+Engineering Manager, Bluestock Fintech
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from IIIT Hyderabad, class of 2018.
+
+Skills
+PyTorch, Docker, MongoDB, Django, SQL
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Kubernetes and Spring Boot. Improved reporting, deployment reliability, and engineering productivity.

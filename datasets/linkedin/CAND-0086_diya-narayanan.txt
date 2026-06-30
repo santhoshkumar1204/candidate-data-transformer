@@ -1,0 +1,21 @@
+Headline
+Diya Narayanan - Engineering Manager at Microsoft
+
+About
+Diya Narayanan is a software professional based in Hyderabad with 9 years of experience. Preferred location: Mumbai.
+
+Experience
+Engineering Manager, Microsoft India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from SSN, class of 2016.
+
+Skills
+Power BI, PostgreSQL, MongoDB, React, Spring Boot, Kubernetes, Django
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using TensorFlow and AWS. Improved reporting, deployment reliability, and engineering productivity.

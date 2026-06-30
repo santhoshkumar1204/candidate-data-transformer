@@ -1,0 +1,21 @@
+Headline
+Vikram Reddy - BI Analyst at Freshworks
+
+About
+Vikram Reddy is a software professional based in Pune with 9 years of experience. Preferred location: Coimbatore.
+
+Experience
+BI Analyst, Freshworks Inc
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from VIT, class of 2016.
+
+Skills
+Python, SQL, MongoDB, Django, Docker, React, Spring Boot, PyTorch
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Python and TensorFlow. Improved reporting, deployment reliability, and engineering productivity.

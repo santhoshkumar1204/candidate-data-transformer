@@ -1,0 +1,21 @@
+Headline
+Meera Iyer - Full Stack Engineer at Zoho
+
+About
+Meera Iyer is a software professional based in Coimbatore with 12 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Full Stack Engineer, Zoho
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from SSN, class of 2013.
+
+Skills
+Kubernetes, AWS, React
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Python and React. Improved reporting, deployment reliability, and engineering productivity.

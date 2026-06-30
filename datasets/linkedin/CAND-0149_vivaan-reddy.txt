@@ -1,0 +1,21 @@
+Headline
+Vivaan Reddy - Data Engineer at TCS
+
+About
+Vivaan Reddy is a software professional based in Pune with 3 years of experience. Preferred location: Chennai.
+
+Experience
+Data Engineer, TCS
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from Anna University, class of 2019.
+
+Skills
+AWS, Kubernetes, Python, PyTorch, Spring Boot, Django, Java
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using AWS and Java. Improved reporting, deployment reliability, and engineering productivity.

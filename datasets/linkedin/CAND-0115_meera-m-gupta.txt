@@ -1,0 +1,21 @@
+Headline
+Meera M. Gupta - Frontend Developer at Salesforce
+
+About
+Meera M. Gupta is a software professional based in Delhi NCR with 12 years of experience. Preferred location: Bengaluru.
+
+Experience
+Frontend Developer, Salesforce
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from SSN, class of 2010.
+
+Skills
+PyTorch, MongoDB, PostgreSQL, Java, AWS
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using AWS and AWS. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Rahul Menon - Engineering Manager at TCS
+
+About
+Rahul Menon is a software professional based in Delhi NCR with 7 years of experience. Preferred location: Bengaluru.
+
+Experience
+Engineering Manager, TCS
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from IIT Madras, class of 2015.
+
+Skills
+AWS, SQL, Django, PostgreSQL, Kubernetes, PyTorch, React, Docker, Spring Boot
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Spring Boot and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

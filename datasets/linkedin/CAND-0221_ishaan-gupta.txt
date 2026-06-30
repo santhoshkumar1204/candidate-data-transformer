@@ -1,0 +1,21 @@
+Headline
+ISHAAN GUPTA - Frontend Developer at Oracle
+
+About
+ISHAAN GUPTA is a software professional based in Bengaluru with 7 years of experience. Preferred location: Bengaluru.
+
+Experience
+Frontend Developer, Oracle
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from IIT Madras, class of 2018.
+
+Skills
+FastAPI, Docker, React, TensorFlow, MongoDB, Spring Boot
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using AWS and AWS. Improved reporting, deployment reliability, and engineering productivity.

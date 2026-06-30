@@ -1,0 +1,8 @@
+Education
+B.E. from IIT Madras, class of .
+
+About
+Aishwarya Rao is a software professional based in Coimbatore with 4 years of experience. Preferred location: Mumbai.
+
+Projects
+Built internal tools using Kubernetes and Power BI. Improved reporting, deployment reliability, and engineering productivity.

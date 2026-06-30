@@ -1,0 +1,21 @@
+Headline
+RAHUL SHARMA - Frontend Developer at IBM
+
+About
+RAHUL SHARMA is a software professional based in Mumbai with 10 years of experience. Preferred location: Chennai.
+
+Experience
+Frontend Developer, IBM
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from PSG, class of 2012.
+
+Skills
+PyTorch, Docker, Java, MongoDB, Python, AWS
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using React and AWS. Improved reporting, deployment reliability, and engineering productivity.

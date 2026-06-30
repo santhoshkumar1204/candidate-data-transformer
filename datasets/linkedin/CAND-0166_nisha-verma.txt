@@ -1,0 +1,21 @@
+Headline
+Nisha Verma - Data Engineer at Cisco
+
+About
+Nisha Verma is a software professional based in Bengaluru with 1 years of experience. Preferred location: Pune.
+
+Experience
+Data Engineer, Cisco
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from Anna University, class of 2021.
+
+Skills
+FastAPI, MongoDB, Docker, Power BI, Java, Django, React, Spring Boot
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Django and TensorFlow. Improved reporting, deployment reliability, and engineering productivity.

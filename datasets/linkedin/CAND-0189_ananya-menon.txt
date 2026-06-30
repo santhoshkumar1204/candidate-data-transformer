@@ -1,0 +1,8 @@
+Projects
+Built internal tools using Python and Django. Improved reporting, deployment reliability, and engineering productivity.
+
+Headline
+Ananya Menon - Backend Engineer at Zoho
+
+About
+Ananya Menon is a software professional based in Mumbai with 3 years of experience. Preferred location: Delhi NCR.

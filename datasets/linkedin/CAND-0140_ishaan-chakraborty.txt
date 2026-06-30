@@ -1,0 +1,21 @@
+Headline
+Ishaan Chakraborty - Senior Software Engineer at Zoho
+
+About
+Ishaan Chakraborty is a software professional based in Mumbai with 1 years of experience. Preferred location: Mumbai.
+
+Experience
+Senior Software Engineer, Zoho
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIIT Hyderabad, class of 2021.
+
+Skills
+Python, PostgreSQL, SQL, TensorFlow, Spring Boot, MongoDB
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using TensorFlow and AWS. Improved reporting, deployment reliability, and engineering productivity.

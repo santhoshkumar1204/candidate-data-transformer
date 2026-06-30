@@ -1,0 +1,21 @@
+Headline
+Karthik Subramanian - BI Analyst at Microsoft
+
+About
+Karthik Subramanian is a software professional based in Pune with 4 years of experience. Preferred location: Hyderabad.
+
+Experience
+BI Analyst, Microsoft
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from PSG, class of 2019.
+
+Skills
+AWS, PyTorch, TensorFlow, Power BI, Spring Boot, FastAPI, Django
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Python and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

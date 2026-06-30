@@ -1,0 +1,21 @@
+Headline
+Ananya Rao - DevOps Engineer at Accenture
+
+About
+Ananya Rao is a software professional based in Pune with 11 years of experience. Preferred location: Chennai.
+
+Experience
+DevOps Engineer, Accenture India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from Anna University, class of 2014.
+
+Skills
+MongoDB, Kubernetes, AWS, Spring Boot, PyTorch, Power BI, SQL, Python, FastAPI
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using PostgreSQL and TensorFlow. Improved reporting, deployment reliability, and engineering productivity.

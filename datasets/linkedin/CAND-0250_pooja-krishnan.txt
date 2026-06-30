@@ -1,0 +1,21 @@
+Headline
+Pooja Krishnan - Engineering Manager at Zoho
+
+About
+Pooja Krishnan is a software professional based in Mumbai with 3 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Engineering Manager, Zoho
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIIT Hyderabad, class of 2021.
+
+Skills
+PyTorch, SQL, Django, React, FastAPI, MongoDB, Spring Boot, TensorFlow, Power BI
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Docker and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

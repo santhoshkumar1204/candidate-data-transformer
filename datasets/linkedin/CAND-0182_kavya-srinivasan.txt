@@ -1,0 +1,21 @@
+Headline
+Kavya Srinivasan - Backend Engineer at Wipro
+
+About
+Kavya Srinivasan is a software professional based in Coimbatore with 2 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Backend Engineer, Wipro
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from SSN, class of 2022.
+
+Skills
+Java, AWS, TensorFlow, SQL, MongoDB, PyTorch
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Python and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

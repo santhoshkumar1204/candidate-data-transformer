@@ -1,0 +1,21 @@
+Headline
+Pooja Sharma - Engineering Manager at Infosys
+
+About
+Pooja Sharma is a software professional based in Coimbatore with 1 years of experience. Preferred location: Pune.
+
+Experience
+Engineering Manager, INFY
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIIT Hyderabad, class of 2021.
+
+Skills
+Docker, TensorFlow, FastAPI, PostgreSQL, Power BI, Spring Boot
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Django and Java. Improved reporting, deployment reliability, and engineering productivity.

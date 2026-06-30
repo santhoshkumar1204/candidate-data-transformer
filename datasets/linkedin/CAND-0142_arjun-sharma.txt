@@ -1,0 +1,21 @@
+Headline
+Arjun Sharma - Backend Engineer at Accenture
+
+About
+Arjun Sharma is a software professional based in Mumbai with 12 years of experience. Preferred location: Chennai.
+
+Experience
+Backend Engineer, Accenture
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from PSG, class of 2011.
+
+Skills
+Kubernetes, PostgreSQL, SQL, Power BI, React, Spring Boot, MongoDB
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Django and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

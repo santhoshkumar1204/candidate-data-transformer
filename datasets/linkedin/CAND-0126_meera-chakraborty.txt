@@ -1,0 +1,11 @@
+Education
+M.Tech from IIIT Hyderabad, class of 2015.
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Spring Boot and SQL. Improved reporting, deployment reliability, and engineering productivity.
+
+Headline
+Meera Chakraborty - Engineering Manager at Adobe

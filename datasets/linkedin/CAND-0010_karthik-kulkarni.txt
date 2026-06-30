@@ -1,0 +1,21 @@
+Headline
+Karthik Kulkarni - Senior Software Engineer at Wipro
+
+About
+Karthik Kulkarni is a software professional based in Chennai with 8 years of experience. Preferred location: Bengaluru.
+
+Experience
+Senior Software Engineer, Wipro
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from IIT Madras, class of 2016.
+
+Skills
+Python, PyTorch, Kubernetes, React, FastAPI
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Python and MongoDB. Improved reporting, deployment reliability, and engineering productivity.

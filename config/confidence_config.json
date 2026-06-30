@@ -1,0 +1,9 @@
+{
+  "source_confidence": {
+    "recruiter": 0.95,
+    "resume": 0.92,
+    "ats": 0.90,
+    "linkedin": 0.80,
+    "merged": 1.00
+  }
+}

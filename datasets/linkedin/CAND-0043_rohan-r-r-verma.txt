@@ -1,0 +1,21 @@
+Headline
+Rohan R. R. Verma - Data Engineer at Wipro
+
+About
+Rohan R. R. Verma is a software professional based in Mumbai with 4 years of experience. Preferred location: Pune.
+
+Experience
+Data Engineer, Wipro Technologies
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from VIT, class of 2018.
+
+Skills
+Docker, React, FastAPI, MongoDB, Django, SQL, PostgreSQL, Kubernetes, TensorFlow
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Java and Python. Improved reporting, deployment reliability, and engineering productivity.

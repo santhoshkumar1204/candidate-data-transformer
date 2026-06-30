@@ -1,0 +1,21 @@
+Headline
+Sneha Sharma - Engineering Manager at Salesforce
+
+About
+Sneha Sharma is a software professional based in Bengaluru with 9 years of experience. Preferred location: Coimbatore.
+
+Experience
+Engineering Manager, SFDC
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from NIT Trichy, class of 2016.
+
+Skills
+MongoDB, PyTorch, SQL, AWS, Python, FastAPI, Power BI, Spring Boot
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Python and Python. Improved reporting, deployment reliability, and engineering productivity.

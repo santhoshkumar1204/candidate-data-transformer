@@ -1,0 +1,21 @@
+Headline
+Adi Patel - Frontend Developer at IBM
+
+About
+Adi Patel is a software professional based in Pune with 13 years of experience. Preferred location: Mumbai.
+
+Experience
+Frontend Developer, IBM India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from Anna University, class of 2011.
+
+Skills
+PyTorch, SQL, PostgreSQL, MongoDB, Power BI, FastAPI, AWS
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Power BI and Kubernetes. Improved reporting, deployment reliability, and engineering productivity.

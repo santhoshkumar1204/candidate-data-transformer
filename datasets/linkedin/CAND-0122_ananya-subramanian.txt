@@ -1,0 +1,21 @@
+Headline
+Ananya Subramanian - BI Analyst at TCS
+
+About
+Ananya Subramanian is a software professional based in Mumbai with 3 years of experience. Preferred location: Bengaluru.
+
+Experience
+BI Analyst, TCS
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from Anna University, class of 2020.
+
+Skills
+Django, Docker, Spring Boot, React, AWS, TensorFlow, SQL, Kubernetes
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using PyTorch and Docker. Improved reporting, deployment reliability, and engineering productivity.

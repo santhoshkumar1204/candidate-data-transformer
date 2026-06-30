@@ -1,0 +1,21 @@
+Headline
+Pooja Krishnan - Cloud Engineer at Infosys
+
+About
+Pooja Krishnan is a software professional based in Chennai with 10 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Cloud Engineer, Infosys
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from NIT Trichy, class of 2013.
+
+Skills
+MongoDB, Kubernetes, Docker, React, PyTorch, PostgreSQL, Spring Boot, FastAPI
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using MongoDB and Java. Improved reporting, deployment reliability, and engineering productivity.

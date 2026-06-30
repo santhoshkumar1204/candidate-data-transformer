@@ -1,0 +1,21 @@
+Headline
+Aditya Rao - Engineering Manager at Salesforce
+
+About
+Aditya Rao is a software professional based in Mumbai with 7 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Engineering Manager, Salesforce
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from Anna University, class of 2017.
+
+Skills
+PostgreSQL, Python, Docker, TensorFlow, PyTorch, AWS, Power BI
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Docker and SQL. Improved reporting, deployment reliability, and engineering productivity.

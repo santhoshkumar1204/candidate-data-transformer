@@ -1,0 +1,21 @@
+Headline
+RAHUL SUBRAMANIAN - Cloud Engineer at Adobe
+
+About
+RAHUL SUBRAMANIAN is a software professional based in Delhi NCR with 13 years of experience. Preferred location: Chennai.
+
+Experience
+Cloud Engineer, Adobe
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from PSG, class of 2009.
+
+Skills
+Power BI, TensorFlow, Python, FastAPI, PyTorch, Spring Boot, Java, React
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Power BI and AWS. Improved reporting, deployment reliability, and engineering productivity.

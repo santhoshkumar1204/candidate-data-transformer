@@ -1,0 +1,15 @@
+{
+  "match_threshold": 0.85,
+  "possible_match_threshold": 0.65,
+  "similarity_weights": {
+    "exact_email": 0.25,
+    "exact_phone": 0.25,
+    "exact_linkedin": 0.18,
+    "exact_github": 0.12,
+    "name_similarity": 0.08,
+    "company_similarity": 0.04,
+    "skills_overlap": 0.03,
+    "location_match": 0.03,
+    "education_overlap": 0.02
+  }
+}

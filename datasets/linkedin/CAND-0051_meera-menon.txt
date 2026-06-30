@@ -1,0 +1,21 @@
+Headline
+MEERA MENON - Software Engineer at Bluestock
+
+About
+MEERA MENON is a software professional based in Pune with 13 years of experience. Preferred location: Mumbai.
+
+Experience
+Software Engineer, BlueStock
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from SRM, class of 2010.
+
+Skills
+React, Java, Docker, Spring Boot, TensorFlow, Power BI, Kubernetes, SQL
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using React and Power BI. Improved reporting, deployment reliability, and engineering productivity.

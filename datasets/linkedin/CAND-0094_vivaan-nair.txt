@@ -1,0 +1,21 @@
+Headline
+Vivaan Nair - Data Engineer at Accenture
+
+About
+Vivaan Nair is a software professional based in Pune with 13 years of experience. Preferred location: Coimbatore.
+
+Experience
+Data Engineer, ACN
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from PSG, class of 2010.
+
+Skills
+PostgreSQL, Kubernetes, React, Spring Boot, TensorFlow, Django, PyTorch, AWS
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Python and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Rohan Chakraborty - BI Analyst at Accenture
+
+About
+Rohan Chakraborty is a software professional based in Hyderabad with 12 years of experience. Preferred location: Mumbai.
+
+Experience
+BI Analyst, Accenture
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from PSG, class of 2011.
+
+Skills
+AWS, React, TensorFlow, MongoDB, Django, Python, Kubernetes
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Django and Kubernetes. Improved reporting, deployment reliability, and engineering productivity.

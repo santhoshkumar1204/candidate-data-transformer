@@ -1,0 +1,21 @@
+Headline
+Sneha Srinivasan - Engineering Manager at Google
+
+About
+Sneha Srinivasan is a software professional based in Delhi NCR with 1 years of experience. Preferred location: Pune.
+
+Experience
+Engineering Manager, Google
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from NIT Trichy, class of 2023.
+
+Skills
+Python, SQL, PostgreSQL, AWS, React, Spring Boot, Django, FastAPI, Java
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using MongoDB and Spring Boot. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Ishaan Sharma - Cloud Engineer at Cisco
+
+About
+Ishaan Sharma is a software professional based in Mumbai with 2 years of experience. Preferred location: Mumbai.
+
+Experience
+Cloud Engineer, Cisco India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from IIT Madras, class of 2021.
+
+Skills
+TensorFlow, PyTorch, MongoDB, React, PostgreSQL
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using AWS and Power BI. Improved reporting, deployment reliability, and engineering productivity.

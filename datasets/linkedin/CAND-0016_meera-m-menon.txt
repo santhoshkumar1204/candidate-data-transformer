@@ -1,0 +1,21 @@
+Headline
+Meera M. Menon - Engineering Manager at Freshworks
+
+About
+Meera M. Menon is a software professional based in Chennai with 11 years of experience. Preferred location: Coimbatore.
+
+Experience
+Engineering Manager, Freshworks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIIT Hyderabad, class of 2011.
+
+Skills
+Django, Python, TensorFlow, Power BI, Java, Docker, PostgreSQL, SQL
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Java and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

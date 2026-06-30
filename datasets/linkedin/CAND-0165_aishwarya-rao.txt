@@ -1,0 +1,21 @@
+Headline
+Aishwarya Rao - Senior Software Engineer at Salesforce
+
+About
+Aishwarya Rao is a software professional based in Chennai with 2 years of experience. Preferred location: Pune.
+
+Experience
+Senior Software Engineer, Salesforce India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from IIT Madras, class of 2023.
+
+Skills
+MongoDB, Kubernetes, Spring Boot, AWS, TensorFlow, PyTorch, SQL
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using TensorFlow and Java. Improved reporting, deployment reliability, and engineering productivity.

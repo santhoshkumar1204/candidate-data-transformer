@@ -1,0 +1,21 @@
+Headline
+Nisha Subramanian - Backend Engineer at Adobe
+
+About
+Nisha Subramanian is a software professional based in Bengaluru with 11 years of experience. Preferred location: Coimbatore.
+
+Experience
+Backend Engineer, Adobe Systems
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from NIT Trichy, class of 2011.
+
+Skills
+SQL, AWS, Django, PostgreSQL, PyTorch
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Docker and Power BI. Improved reporting, deployment reliability, and engineering productivity.

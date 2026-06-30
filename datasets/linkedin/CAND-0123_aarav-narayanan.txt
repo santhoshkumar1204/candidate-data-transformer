@@ -1,0 +1,21 @@
+Headline
+Aarav Narayanan - Frontend Developer at Zoho
+
+About
+Aarav Narayanan is a software professional based in Chennai with 8 years of experience. Preferred location: Pune.
+
+Experience
+Frontend Developer, Zoho
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from IIT Madras, class of 2015.
+
+Skills
+MongoDB, PostgreSQL, SQL, PyTorch, Docker, React
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using PyTorch and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Priya Menon - Software Engineer at Infosys
+
+About
+Priya Menon is a software professional based in Pune with 11 years of experience. Preferred location: Bengaluru.
+
+Experience
+Software Engineer, INFY
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from SRM, class of 2013.
+
+Skills
+Kubernetes, FastAPI, Django, Docker, TensorFlow
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using TensorFlow and Kubernetes. Improved reporting, deployment reliability, and engineering productivity.

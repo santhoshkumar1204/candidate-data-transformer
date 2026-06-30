@@ -1,0 +1,21 @@
+Headline
+Priya Srinivasan - BI Analyst at Amazon
+
+About
+Priya Srinivasan is a software professional based in Pune with 10 years of experience. Preferred location: Delhi NCR.
+
+Experience
+BI Analyst, Amazon
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from SSN, class of 2013.
+
+Skills
+PostgreSQL, TensorFlow, Spring Boot, MongoDB, Python, React, Java
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Java and Java. Improved reporting, deployment reliability, and engineering productivity.

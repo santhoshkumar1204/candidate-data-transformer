@@ -1,0 +1,21 @@
+Headline
+Nisha Subramanian - Full Stack Engineer at Bluestock
+
+About
+Nisha Subramanian is a software professional based in Chennai with 6 years of experience. Preferred location: Bengaluru.
+
+Experience
+Full Stack Engineer, Bluestock
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from BITS Pilani, class of 2019.
+
+Skills
+PostgreSQL, Kubernetes, MongoDB, Java, FastAPI, AWS, Spring Boot, Docker
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using MongoDB and Django. Improved reporting, deployment reliability, and engineering productivity.

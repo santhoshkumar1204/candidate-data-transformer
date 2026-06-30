@@ -1,0 +1,21 @@
+Headline
+Kavya Rao - Software Engineer at Cisco
+
+About
+Kavya Rao is a software professional based in Chennai with 10 years of experience. Preferred location: Pune.
+
+Experience
+Software Engineer, Cisco
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from SRM, class of 2014.
+
+Skills
+TensorFlow, Django, Power BI, Python, PostgreSQL, FastAPI, SQL, Kubernetes
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Docker and Django. Improved reporting, deployment reliability, and engineering productivity.

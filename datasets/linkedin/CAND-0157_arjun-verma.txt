@@ -1,0 +1,21 @@
+Headline
+Arjun Verma - Backend Engineer at Zoho
+
+About
+Arjun Verma is a software professional based in Coimbatore with 6 years of experience. Preferred location: Chennai.
+
+Experience
+Backend Engineer, Zoho Corp
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from PSG, class of 2017.
+
+Skills
+React, PyTorch, Java, Power BI, PostgreSQL, Docker, TensorFlow, Python
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Spring Boot and React. Improved reporting, deployment reliability, and engineering productivity.

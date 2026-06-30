@@ -1,0 +1,21 @@
+Headline
+Rahul Kulkarni - BI Analyst at TCS
+
+About
+Rahul Kulkarni is a software professional based in Hyderabad with 14 years of experience. Preferred location: Delhi NCR.
+
+Experience
+BI Analyst, TCS Ltd
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from SRM, class of 2008.
+
+Skills
+Docker, FastAPI, MongoDB, AWS, TensorFlow, Python, PyTorch
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Spring Boot and Docker. Improved reporting, deployment reliability, and engineering productivity.

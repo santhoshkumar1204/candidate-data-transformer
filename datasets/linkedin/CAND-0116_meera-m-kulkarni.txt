@@ -1,0 +1,21 @@
+Headline
+Meera M. Kulkarni - Senior Software Engineer at Wipro
+
+About
+Meera M. Kulkarni is a software professional based in Bengaluru with 9 years of experience. Preferred location: Bengaluru.
+
+Experience
+Senior Software Engineer, WIPRO
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from SSN, class of 2015.
+
+Skills
+AWS, PyTorch, TensorFlow, SQL, Java, Django
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Java and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

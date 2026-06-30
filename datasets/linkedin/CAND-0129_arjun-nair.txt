@@ -1,0 +1,21 @@
+Headline
+Arjun Nair - Backend Engineer at IBM
+
+About
+Arjun Nair is a software professional based in Coimbatore with 9 years of experience. Preferred location: Hyderabad.
+
+Experience
+Backend Engineer, International Business Machines
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from SSN, class of 2014.
+
+Skills
+AWS, PostgreSQL, React, Docker, PyTorch, Django, SQL, MongoDB, FastAPI
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using Python and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

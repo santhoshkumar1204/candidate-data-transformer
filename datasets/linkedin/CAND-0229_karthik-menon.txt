@@ -1,0 +1,21 @@
+Headline
+Karthik Menon - DevOps Engineer at Microsoft
+
+About
+Karthik Menon is a software professional based in Mumbai with 11 years of experience. Preferred location: Pune.
+
+Experience
+DevOps Engineer, Microsoft
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from NIT Trichy, class of 2014.
+
+Skills
+SQL, Power BI, PyTorch, FastAPI, MongoDB, TensorFlow, Spring Boot, Docker, Java
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using TensorFlow and Spring Boot. Improved reporting, deployment reliability, and engineering productivity.

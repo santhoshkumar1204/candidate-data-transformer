@@ -1,0 +1,21 @@
+Headline
+Meera Gupta - BI Analyst at Infosys
+
+About
+Meera Gupta is a software professional based in Coimbatore with 8 years of experience. Preferred location: Mumbai.
+
+Experience
+BI Analyst, Infosys Ltd
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from Anna University, class of 2014.
+
+Skills
+Java, Docker, Power BI, PyTorch, React, Kubernetes
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Spring Boot and SQL. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Aishu Subramanian - Cloud Engineer at Zoho
+
+About
+Aishu Subramanian is a software professional based in Chennai with 2 years of experience. Preferred location: Coimbatore.
+
+Experience
+Cloud Engineer, Zoho
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from BITS Pilani, class of 2023.
+
+Skills
+PyTorch, Java, React, Spring Boot, Power BI, Docker, TensorFlow
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Kubernetes and SQL. Improved reporting, deployment reliability, and engineering productivity.

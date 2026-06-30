@@ -1,0 +1,21 @@
+Headline
+Sai Nair - Full Stack Engineer at Salesforce
+
+About
+Sai Nair is a software professional based in Mumbai with 1 years of experience. Preferred location: Bengaluru.
+
+Experience
+Full Stack Engineer, Salesforce
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from BITS Pilani, class of 2021.
+
+Skills
+Python, React, Spring Boot, Java, MongoDB, SQL, Docker
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using PostgreSQL and SQL. Improved reporting, deployment reliability, and engineering productivity.

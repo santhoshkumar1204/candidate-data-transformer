@@ -1,0 +1,21 @@
+Headline
+Aditya Krishnan - Software Engineer at Adobe
+
+About
+Aditya Krishnan is a software professional based in Bengaluru with 6 years of experience. Preferred location: Coimbatore.
+
+Experience
+Software Engineer, ADBE
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from PSG, class of 2016.
+
+Skills
+Spring Boot, SQL, React, MongoDB, Python, PyTorch, FastAPI, PostgreSQL
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Spring Boot and Java. Improved reporting, deployment reliability, and engineering productivity.

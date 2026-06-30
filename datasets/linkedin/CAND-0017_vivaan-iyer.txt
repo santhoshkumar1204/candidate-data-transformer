@@ -1,0 +1,21 @@
+Headline
+VIVAAN IYER - DevOps Engineer at Bluestock
+
+About
+VIVAAN IYER is a software professional based in Coimbatore with 14 years of experience. Preferred location: Hyderabad.
+
+Experience
+DevOps Engineer, Bluestock Fintech
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from SSN, class of 2011.
+
+Skills
+PyTorch, FastAPI, React, TensorFlow, Power BI, Kubernetes, MongoDB
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Spring Boot and PostgreSQL. Improved reporting, deployment reliability, and engineering productivity.

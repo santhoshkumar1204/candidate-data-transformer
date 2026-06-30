@@ -1,0 +1,21 @@
+Headline
+Nisha Menon - Frontend Developer at Google
+
+About
+Nisha Menon is a software professional based in Bengaluru with 5 years of experience. Preferred location: Coimbatore.
+
+Experience
+Frontend Developer, Google LLC
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from SSN, class of 2019.
+
+Skills
+Java, PyTorch, Django, FastAPI, MongoDB, AWS, TensorFlow, React
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Docker and MongoDB. Improved reporting, deployment reliability, and engineering productivity.

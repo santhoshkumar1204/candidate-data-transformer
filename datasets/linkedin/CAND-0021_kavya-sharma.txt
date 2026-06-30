@@ -1,0 +1,21 @@
+Headline
+Kavya Sharma - Engineering Manager at Freshworks
+
+About
+Kavya Sharma is a software professional based in Delhi NCR with 11 years of experience. Preferred location: Hyderabad.
+
+Experience
+Engineering Manager, FreshWorks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from IIT Madras, class of 2012.
+
+Skills
+PostgreSQL, TensorFlow, React
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using PostgreSQL and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

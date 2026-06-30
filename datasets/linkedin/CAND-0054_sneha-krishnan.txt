@@ -1,0 +1,11 @@
+Projects
+Built internal tools using PyTorch and PyTorch. Improved reporting, deployment reliability, and engineering productivity.
+
+Education
+B.E. from SRM, class of .
+
+About
+Sneha Krishnan is a software professional based in Delhi NCR with 1 years of experience. Preferred location: Chennai.
+
+Headline
+Sneha Krishnan - DevOps Engineer at Microsoft

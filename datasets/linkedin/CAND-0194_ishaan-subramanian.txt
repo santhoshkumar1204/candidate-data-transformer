@@ -1,0 +1,21 @@
+Headline
+Ishaan Subramanian - Engineering Manager at Freshworks
+
+About
+Ishaan Subramanian is a software professional based in Pune with 7 years of experience. Preferred location: Bengaluru.
+
+Experience
+Engineering Manager, Freshworks Inc
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from BITS Pilani, class of 2015.
+
+Skills
+PyTorch, Spring Boot, MongoDB, FastAPI, Django, Power BI
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Java and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

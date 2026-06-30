@@ -1,0 +1,21 @@
+Headline
+Aarav Narayanan - Software Engineer at Freshworks
+
+About
+Aarav Narayanan is a software professional based in Pune with 6 years of experience. Preferred location: Delhi NCR.
+
+Experience
+Software Engineer, Freshworks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from SRM, class of 2018.
+
+Skills
+Python, SQL, PostgreSQL, Django, Power BI, MongoDB, FastAPI
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using SQL and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

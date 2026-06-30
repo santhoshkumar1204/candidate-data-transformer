@@ -1,0 +1,21 @@
+Headline
+Sneha Chakraborty - Backend Engineer at Wipro
+
+About
+Sneha Chakraborty is a software professional based in Chennai with 11 years of experience. Preferred location: Coimbatore.
+
+Experience
+Backend Engineer, Wipro
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from NIT Trichy, class of 2012.
+
+Skills
+Spring Boot, Django, Power BI, Kubernetes, Docker, MongoDB
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using PostgreSQL and Django. Improved reporting, deployment reliability, and engineering productivity.

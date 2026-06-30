@@ -1,0 +1,21 @@
+Headline
+Sneha Verma - Full Stack Engineer at Infosys
+
+About
+Sneha Verma is a software professional based in Mumbai with 6 years of experience. Preferred location: Hyderabad.
+
+Experience
+Full Stack Engineer, Infosys
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from IIT Madras, class of 2017.
+
+Skills
+TensorFlow, Django, PostgreSQL, SQL, PyTorch, Power BI, React, Spring Boot, MongoDB
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using PyTorch and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

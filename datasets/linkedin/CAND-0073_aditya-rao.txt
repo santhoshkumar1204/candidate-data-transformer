@@ -1,0 +1,21 @@
+Headline
+Aditya Rao - Backend Engineer at Bluestock
+
+About
+Aditya Rao is a software professional based in Chennai with 6 years of experience. Preferred location: Hyderabad.
+
+Experience
+Backend Engineer, BlueStock
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from BITS Pilani, class of 2018.
+
+Skills
+AWS, React, TensorFlow, Power BI, Java, MongoDB, PyTorch, Kubernetes
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using TensorFlow and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

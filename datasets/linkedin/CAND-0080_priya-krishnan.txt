@@ -1,0 +1,21 @@
+Headline
+Priya Krishnan - Engineering Manager at Microsoft
+
+About
+Priya Krishnan is a software professional based in Bengaluru with 9 years of experience. Preferred location: Chennai.
+
+Experience
+Engineering Manager, MSFT
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from BITS Pilani, class of 2014.
+
+Skills
+Python, AWS, Docker, PostgreSQL, PyTorch, Kubernetes, Spring Boot, Java
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Python and Spring Boot. Improved reporting, deployment reliability, and engineering productivity.

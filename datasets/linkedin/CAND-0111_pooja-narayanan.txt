@@ -1,0 +1,21 @@
+Headline
+Pooja Narayanan - DevOps Engineer at Adobe
+
+About
+Pooja Narayanan is a software professional based in Hyderabad with 4 years of experience. Preferred location: Hyderabad.
+
+Experience
+DevOps Engineer, Adobe
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from SRM, class of 2018.
+
+Skills
+Docker, Kubernetes, PyTorch, Spring Boot, FastAPI, AWS, SQL
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using TensorFlow and AWS. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,8 @@
+Education
+MCA from IIT Madras, class of .
+
+About
+Meera Verma is a software professional based in Mumbai with 1 years of experience. Preferred location: Pune.
+
+Skills
+Kubernetes, Java, PostgreSQL, AWS, React, PyTorch

@@ -1,0 +1,21 @@
+Headline
+Sai Menon - Backend Engineer at Oracle
+
+About
+Sai Menon is a software professional based in Bengaluru with 13 years of experience. Preferred location: Hyderabad.
+
+Experience
+Backend Engineer, Oracle
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from IIT Madras, class of 2009.
+
+Skills
+FastAPI, MongoDB, Power BI, Kubernetes, Python
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Python and Django. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Meera Menon - Backend Engineer at Adobe
+
+About
+Meera Menon is a software professional based in Chennai with 10 years of experience. Preferred location: Hyderabad.
+
+Experience
+Backend Engineer, Adobe Systems
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from BITS Pilani, class of 2012.
+
+Skills
+React, TensorFlow, AWS, Kubernetes, PostgreSQL, MongoDB, PyTorch
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Kubernetes and FastAPI. Improved reporting, deployment reliability, and engineering productivity.

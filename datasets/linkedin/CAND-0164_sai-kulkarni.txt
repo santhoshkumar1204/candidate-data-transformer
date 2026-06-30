@@ -1,0 +1,21 @@
+Headline
+Sai Kulkarni - Full Stack Engineer at Salesforce
+
+About
+Sai Kulkarni is a software professional based in Coimbatore with 6 years of experience. Preferred location: Pune.
+
+Experience
+Full Stack Engineer, Salesforce India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from IIIT Hyderabad, class of 2016.
+
+Skills
+Java, AWS, Kubernetes, Power BI, Docker, Spring Boot
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using PostgreSQL and Docker. Improved reporting, deployment reliability, and engineering productivity.

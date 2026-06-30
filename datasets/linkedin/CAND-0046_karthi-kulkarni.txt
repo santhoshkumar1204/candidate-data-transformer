@@ -1,0 +1,21 @@
+Headline
+Karthi Kulkarni - Senior Software Engineer at Wipro
+
+About
+Karthi Kulkarni is a software professional based in Bengaluru with 8 years of experience. Preferred location: Mumbai.
+
+Experience
+Senior Software Engineer, Wipro
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from IIT Madras, class of 2014.
+
+Skills
+Docker, Power BI, FastAPI, PostgreSQL, Spring Boot, Kubernetes, TensorFlow
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using FastAPI and Java. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Rahul Chakraborty - Cloud Engineer at Google
+
+About
+Rahul Chakraborty is a software professional based in Pune with 9 years of experience. Preferred location: Hyderabad.
+
+Experience
+Cloud Engineer, Google
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from Anna University, class of 2016.
+
+Skills
+Kubernetes, FastAPI, PyTorch, AWS, SQL, Django, Java
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using TensorFlow and Java. Improved reporting, deployment reliability, and engineering productivity.

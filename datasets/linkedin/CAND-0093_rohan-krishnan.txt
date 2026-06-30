@@ -1,0 +1,21 @@
+Headline
+Rohan Krishnan - Full Stack Engineer at Freshworks
+
+About
+Rohan Krishnan is a software professional based in Bengaluru with 2 years of experience. Preferred location: Mumbai.
+
+Experience
+Full Stack Engineer, Freshworks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from VIT, class of 2020.
+
+Skills
+FastAPI, MongoDB, TensorFlow, PyTorch, SQL, React, Java
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using React and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

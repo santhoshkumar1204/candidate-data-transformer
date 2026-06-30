@@ -1,0 +1,21 @@
+Headline
+Nisha Gupta - Data Engineer at Freshworks
+
+About
+Nisha Gupta is a software professional based in Pune with 1 years of experience. Preferred location: Bengaluru.
+
+Experience
+Data Engineer, Freshworks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from BITS Pilani, class of 2024.
+
+Skills
+React, FastAPI, SQL, Java, PostgreSQL, Django, AWS, Python
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Django and Kubernetes. Improved reporting, deployment reliability, and engineering productivity.

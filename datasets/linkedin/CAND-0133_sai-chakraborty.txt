@@ -1,0 +1,21 @@
+Headline
+Sai Chakraborty - DevOps Engineer at Infosys
+
+About
+Sai Chakraborty is a software professional based in Delhi NCR with 1 years of experience. Preferred location: Pune.
+
+Experience
+DevOps Engineer, Infosys
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from PSG, class of 2023.
+
+Skills
+Power BI, MongoDB, React, Django, AWS
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using TensorFlow and PyTorch. Improved reporting, deployment reliability, and engineering productivity.

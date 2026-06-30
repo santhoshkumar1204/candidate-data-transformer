@@ -1,0 +1,21 @@
+Headline
+AISHWARYA SRINIVASAN - Senior Software Engineer at Oracle
+
+About
+AISHWARYA SRINIVASAN is a software professional based in Coimbatore with 13 years of experience. Preferred location: Hyderabad.
+
+Experience
+Senior Software Engineer, Oracle
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from BITS Pilani, class of 2012.
+
+Skills
+Java, PostgreSQL, FastAPI, React, AWS, Spring Boot, PyTorch, TensorFlow, MongoDB
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Java and SQL. Improved reporting, deployment reliability, and engineering productivity.

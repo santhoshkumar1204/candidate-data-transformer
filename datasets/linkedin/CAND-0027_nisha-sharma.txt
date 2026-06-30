@@ -1,0 +1,12 @@
+Experience
+Full Stack Engineer, IBM India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from IIT Madras, class of .
+
+Certifications
+Azure Fundamentals
+
+Skills
+Kubernetes, Power BI, MongoDB, PostgreSQL, Django, Docker, SQL, FastAPI

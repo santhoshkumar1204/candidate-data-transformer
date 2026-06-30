@@ -1,0 +1,21 @@
+Headline
+Pooja Kulkarni - Cloud Engineer at Infosys Ltd
+
+About
+Pooja Kulkarni is a software professional based in Delhi NCR with 14 years of experience. Preferred location: Mumbai.
+
+Experience
+Cloud Engineer, Infosys Ltd
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from VIT, class of 2008.
+
+Skills
+PyTorch, Spring Boot, SQL, TensorFlow, Kubernetes, PostgreSQL, Django, MongoDB, React
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using PostgreSQL and Power BI. Improved reporting, deployment reliability, and engineering productivity.

@@ -1,0 +1,21 @@
+Headline
+Arjun Narayanan - Full Stack Engineer at Freshworks
+
+About
+Arjun Narayanan is a software professional based in Coimbatore with 14 years of experience. Preferred location: Pune.
+
+Experience
+Full Stack Engineer, Freshworks
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from NIT Trichy, class of 2010.
+
+Skills
+React, AWS, PyTorch, MongoDB, Spring Boot, Java, SQL, Docker, FastAPI
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using MongoDB and Kubernetes. Improved reporting, deployment reliability, and engineering productivity.

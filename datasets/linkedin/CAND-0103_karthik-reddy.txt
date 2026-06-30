@@ -1,0 +1,21 @@
+Headline
+Karthik Reddy - Cloud Engineer at Amazon
+
+About
+Karthik Reddy is a software professional based in Chennai with 3 years of experience. Preferred location: Coimbatore.
+
+Experience
+Cloud Engineer, AMZN
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from Anna University, class of 2019.
+
+Skills
+AWS, Power BI, Kubernetes, Docker, PostgreSQL, Django, MongoDB, Java
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using MongoDB and Python. Improved reporting, deployment reliability, and engineering productivity.

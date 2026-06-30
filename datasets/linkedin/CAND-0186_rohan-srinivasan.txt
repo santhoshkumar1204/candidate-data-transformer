@@ -1,0 +1,21 @@
+Headline
+Rohan Srinivasan - Cloud Engineer at Bluestock
+
+About
+Rohan Srinivasan is a software professional based in Hyderabad with 6 years of experience. Preferred location: Coimbatore.
+
+Experience
+Cloud Engineer, BlueStock
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from BITS Pilani, class of 2016.
+
+Skills
+MongoDB, Docker, Spring Boot, Power BI, PostgreSQL, TensorFlow, AWS
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Docker and TensorFlow. Improved reporting, deployment reliability, and engineering productivity.

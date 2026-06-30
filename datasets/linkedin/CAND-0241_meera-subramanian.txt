@@ -1,0 +1,21 @@
+Headline
+Meera Subramanian - Software Engineer at Google
+
+About
+Meera Subramanian is a software professional based in Bengaluru with 5 years of experience. Preferred location: Hyderabad.
+
+Experience
+Software Engineer, Google
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from VIT, class of 2019.
+
+Skills
+Python, FastAPI, Django, SQL, Java, Docker, Power BI
+
+Certifications
+Azure Fundamentals
+
+Projects
+Built internal tools using PostgreSQL and AWS. Improved reporting, deployment reliability, and engineering productivity.

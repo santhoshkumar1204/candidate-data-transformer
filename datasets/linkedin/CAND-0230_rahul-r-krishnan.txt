@@ -1,0 +1,21 @@
+Headline
+Rahul R. Krishnan - Backend Engineer at Google
+
+About
+Rahul R. Krishnan is a software professional based in Hyderabad with 1 years of experience. Preferred location: Coimbatore.
+
+Experience
+Backend Engineer, Google
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.E. from IIT Madras, class of 2023.
+
+Skills
+FastAPI, PostgreSQL, React, TensorFlow, Python, Spring Boot, Java
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Docker and MongoDB. Improved reporting, deployment reliability, and engineering productivity.

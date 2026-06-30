@@ -1,0 +1,21 @@
+Headline
+Ananya Srinivasan - Software Engineer at Amazon
+
+About
+Ananya Srinivasan is a software professional based in Bengaluru with 11 years of experience. Preferred location: Hyderabad.
+
+Experience
+Software Engineer, Amazon India
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Tech from IIIT Hyderabad, class of 2011.
+
+Skills
+AWS, PostgreSQL, Power BI, Python, SQL, FastAPI, Docker, MongoDB
+
+Certifications
+Docker Certified Associate
+
+Projects
+Built internal tools using Django and Docker. Improved reporting, deployment reliability, and engineering productivity.

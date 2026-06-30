@@ -1,0 +1,21 @@
+Headline
+Meera Narayanan - DevOps Engineer at Amazon
+
+About
+Meera Narayanan is a software professional based in Coimbatore with 3 years of experience. Preferred location: Pune.
+
+Experience
+DevOps Engineer, Amazon
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+MCA from SRM, class of 2020.
+
+Skills
+TensorFlow, SQL, Kubernetes, Docker, AWS, MongoDB, FastAPI
+
+Certifications
+Not specified
+
+Projects
+Built internal tools using Kubernetes and TensorFlow. Improved reporting, deployment reliability, and engineering productivity.

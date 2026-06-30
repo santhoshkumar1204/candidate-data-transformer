@@ -1,0 +1,21 @@
+Headline
+Vikram Iyer - Frontend Developer at TCS
+
+About
+Vikram Iyer is a software professional based in Mumbai with 5 years of experience. Preferred location: Hyderabad.
+
+Experience
+Frontend Developer, TCS
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+B.Tech from SSN, class of 2018.
+
+Skills
+Power BI, Kubernetes, React, Python, PostgreSQL, PyTorch
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using Power BI and React. Improved reporting, deployment reliability, and engineering productivity.

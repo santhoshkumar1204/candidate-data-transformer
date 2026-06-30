@@ -1,0 +1,21 @@
+Headline
+Meera Srinivasan - Engineering Manager at Salesforce
+
+About
+Meera Srinivasan is a software professional based in Pune with 3 years of experience. Preferred location: Mumbai.
+
+Experience
+Engineering Manager, Salesforce
+Worked on scalable platforms, APIs, cloud services, and product engineering initiatives.
+
+Education
+M.Sc Computer Science from IIT Madras, class of 2019.
+
+Skills
+Python, Kubernetes, AWS, TensorFlow, Docker, Django, PostgreSQL, MongoDB, Java
+
+Certifications
+AWS Certified Developer
+
+Projects
+Built internal tools using MongoDB and Spring Boot. Improved reporting, deployment reliability, and engineering productivity.
